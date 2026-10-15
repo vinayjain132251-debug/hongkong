@@ -112,4 +112,10 @@ export const demoUsers = {
     slug: "alley-saphal",
     password: "ALLEYSAPHAL1990",
   },
+
+  "MTEN-0001374-26(E)": {
+    id: "1374",
+    slug: "rai-puja",
+    password: "RAIPUJA1995",
+  },
 } as const;
