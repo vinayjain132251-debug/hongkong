@@ -93,4 +93,9 @@ export const demoResultUsers = {
     name: "ALLEY, SAPHAL",
     pdf: "/documents/MTEN-0001373-26(E).pdf",
   },
+
+  "rai-puja": {
+    name: "RAI, PUJA",
+    pdf: "/documents/MTEN-0001374-26(E).pdf",
+  },
 } as const;
