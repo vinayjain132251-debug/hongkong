@@ -27,6 +27,7 @@ export default async function VisaResultPage({
   "1371": "subba-tiran",
   "1372": "rai-sharmila",
   "1373": "alley-saphal",
+  "1374": "rai-puja",
 } as const;
 
 const finalSlug =
