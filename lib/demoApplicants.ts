@@ -177,4 +177,5 @@ export const demoApplicants = {
     dob: "27/11/1995",
     applicationNo: "MTEN-0001374-26(E)",
     nationality: "印度",
+    },
 } as const;
