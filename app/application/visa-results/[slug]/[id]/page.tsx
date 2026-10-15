@@ -361,6 +361,25 @@ const demoData = {
     contractTermChinese: "兩年",
     contractTerm: "2 Years",
   },
+
+  "1374": {
+    slug: "rai-puja",
+    nameChinese: "拉伊，普贾",
+    name: "RAI, PUJA",
+    passport: "X3950207",
+    dob: "27/11/1995",
+    applicationReference: "MTEN-0001374-26(E)",
+    nationalityChinese: "印度",
+    nationality: "INDIAN",
+    companyNameChinese: "明辉时代有限公司",
+    companyName: "BRIGHTEN ERA LIMITED",
+    designationChinese: "餐飲助理",
+    designation: "F&B Helper",
+    approvalCategoryChinese: "就业许可证",
+    approvalCategory: "Employment Permit",
+    contractTermChinese: "兩年",
+    contractTerm: "2 Years",
+  },
 } as const;
 
 type PageProps = {
