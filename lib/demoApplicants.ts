@@ -169,4 +169,12 @@ export const demoApplicants = {
     applicationNo: "MTEN-0001373-26(E)",
     nationality: "印度",
   },
+
+  "1374": {
+    demo: true,
+    name: "RAI, PUJA",
+    passport: "X3950207",
+    dob: "27/11/1995",
+    applicationNo: "MTEN-0001374-26(E)",
+    nationality: "印度",
 } as const;
